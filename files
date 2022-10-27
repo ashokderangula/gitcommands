@@ -1,0 +1,5 @@
+Git clone <paste the github url>
+git add .
+git commit -m "<write any msg>"
+git push
+git pull
